@@ -21,7 +21,7 @@ repository               : "oikos99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "paul-headshot.png"
+  avatar           : "paul-headshot2.png"
   name             : "Paul T. Chiou"
   pronouns         : # example: "she/her"  
   bio              : "A software engineer who is passionate about creating accessible technology."
