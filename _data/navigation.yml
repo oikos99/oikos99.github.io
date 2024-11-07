@@ -8,20 +8,18 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/  
+
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CV_Paul_Chiou_11-5-2024.pdf
+
+  - title: "Hobbies"
+    url: /hobbies/
+        
+  - title: "*Future* Research Lab"
+    url: /lab/
     
-  - title: "Guide"
-    url: /markdown/
