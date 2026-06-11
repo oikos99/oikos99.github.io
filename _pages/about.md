@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! It's me. Paul. I'm currently a Ph.D. Candidate in Computer Science at the [University of Southern California](https://www.cs.usc.edu/), working under the supervision of my advisor [William G.J. Halfond](https://viterbi-web.usc.edu/~halfond/).
+Hey there! I’m Paul. I work at [UC Irvine Libraries](https://www.lib.uci.edu/), where I lead digital accessibility efforts across websites, digital content, and library services.
 
-I have a passion for software engineering, especially when it comes to making software more accessible for everyone. As someone who relies on Assistive Technology, I've noticed that there's still plenty of room for improvement in the software we use today, especially for people with disabilities. My research focuses on enhancing the quality assurance processes for web applications and making sure that software user interfaces are accessible to all. I'm excited about the work I'm doing and the positive changes we can bring! 😊
-![web](/images//web-a11y3.png){: .align-center}
+I have a background in computer science and software engineering. I completed my Ph.D. at the [University of Southern California](https://www.cs.usc.edu/), where my research focused on improving the accessibility of web applications. As someone who relies on assistive technology, I know firsthand how much room there is for improvement. I’m passionate about making technology work better for everyone, especially people with disabilities. 😊
+
+![Web accessibility illustration](/images/web-a11y3.png){: .align-center}
+
 
 <!---
 
@@ -18,7 +20,7 @@ I have a passion for software engineering, especially when it comes to making so
 Research Projects
 ------
 
-I'm fortune to have worked and collaborated on the following software accessibility projects.
+I'm fortunate to have worked and collaborated on the following software accessibility projects.
 
 **Detecting Keyboard Accessibility Issues in Web Apps**
 
